@@ -2,6 +2,7 @@
     "name": "amount-column",
     "version": "0.1.7",
     "private": false,
+    "keywords": [ "amount", "凭证金额", "金额栏","金额输入框" ],
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
